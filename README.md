@@ -13,26 +13,26 @@ The following dot chart was filtered for job types that specialize in working wi
 ![dot_chart](images/dot_chart.png)
 
 ### Tree Map
-Software engineer positions are most in demand due to the high number of job postings for this job type. Data engineersis the second most in demand.
+Software engineer positions are most in demand due to the high number of job postings for this job type. Data engineers is the second most in demand.
 
 ![tree_map](images/job_title_tree_map.png)
 
-When drilling down by each skill needed, python, aws, and sql come up frequently.
+When drilling down by each skill needed, python, AWS, and SQL show up frequently - these are important skills in high demand for data science.
 
 ![tree_map_unfiltered](images/tree_map_unfiltered.png)
 
 When filtering for jobs more focused purely on data science (data engineers, data scientists, etc.),
-python and sql continue to be some of the skills highest in demand. Cloud also is an in-demand skill.
+python and SQL continue to be some of the skills highest in demand. Cloud also is an in-demand skill.
 
 ![tree_map_filtered](images/tree_map_filtered.png)
 
 ### Time-Series Aanalysis
 
-The area chart displays how the demand for different position levels has changed overtime. Mid-Senior level positions have shown the most growth overtime. The dip in demand in 2020 was due to COVID-19 pandemic, which caused a lot of economic uncertainty and therfore prompted employers to avoid posting new jobs. 
+The area chart displays how the demand for different position levels has changed overtime. Mid-Senior level positions have shown the most growth overtime. The dip in demand in 2020 was due to COVID-19 pandemic, which caused economic uncertainty and therfore prompted employers to avoid posting new jobs. 
 
 ![jobs_time_analysis](images/jobs_time_analysis.png)
 
-The following line show the demand for the top ten skills from 2017 to 2021 for data-oriented professions. Note that the lines are horizontal, meaning the demand for these skills has remained stable overtime.
+The following line plot show the demand for the top ten skills from 2017 to 2021 for data-oriented professions. Note that the lines are horizontal, meaning the demand for these skills has remained stable overtime.
 
 ![line_plot_no_filter](images/line_plot_no_filter.png)
 
@@ -40,6 +40,6 @@ The following plot shows the average pay of data science positions as an employe
 
 ![salary_vs_exp](images/salary_vs_exp.png)
 
+## Conclusion
 
-
-
+According to this data, jobs in data science remain in high demand, with the same skills (such as Python and SQL) remaining in high demand over time. 
